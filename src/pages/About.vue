@@ -14,16 +14,16 @@
                 <div class="box-container">
 
                     <div class="box">
-                        <h3> <span>name : </span> Abhisit Ukham </h3>
-                        <h3> <span>age : </span> 29 </h3>
-                        <h3> <span>email : </span> abhisit@ukham.com </h3>
+                        <h3> <span>name : </span> Kanhapong Kanhakul </h3>
+                        <h3> <span>age : </span> 19 </h3>
+                        <h3> <span>email : </span> kanhapong01@gmail.com </h3>
                         <h3> <span>address : </span> Nontaburi, Thailand 11110 </h3>
                     </div>
 
                     <div class="box">
                         <h3> <span>freelance : </span> available </h3>
-                        <h3> <span>skill : </span> Full Stack Engineer </h3>
-                        <h3> <span>experience : </span> 6 years </h3>
+                        <h3> <span>skill : </span> Movement Apex legend. </h3>
+                        <h3> <span>experience : </span> 4 years </h3>
                         <h3> <span>language : </span> thai </h3>
                     </div>
 

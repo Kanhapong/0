@@ -11,7 +11,7 @@
 
         <h1>get in touch</h1>
 
-        <p>รับเขียนโปรแกรมราคาแพง inbox เลยครับ</p>
+        <p>รับปั้มแรงค์ Apex inbox เลยครับ</p>
 
         <div class="box-container">
 
@@ -27,7 +27,7 @@
                 <i class="fas fa-envelope"></i>
                 <div class="info">
                     <h3>email :</h3>
-                    <p>abhisit@ukham.com</p>
+                    <p>kanhapong01@gmail.com</p>
                 </div>
             </div>
 
